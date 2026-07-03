@@ -29,7 +29,7 @@ The project was built using Python functions and structural programming concepts
 1. Download the project files
 2. Open terminal or command prompt
 3. Run the following command:
-python "Corporate Talent & Payroll Management System.py"
+- python "Corporate Talent & Payroll Management System.py"
 
 # Example Output
 ==================================================
