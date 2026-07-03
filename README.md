@@ -32,15 +32,15 @@ The project was built using Python functions and structural programming concepts
 - python "Corporate Talent & Payroll Management System.py"
 
 # Example Output 
-===============================================
-📄 Payroll Statement for: Ahmed
-===============================================
-- Department:     IT
-- Base Salary:    10000.00 EGP
-- Earned Bonus:   2000.00 EGP
-- Tax Deductions: 1800.00 EGP
-=================================================
-💵Net Payable Cash: 10200.00 EGP
-=================================================
+    ===============================================
+    📄 Payroll Statement for: Ahmed
+    ===============================================
+     - Department:     IT
+     - Base Salary:    10000.00 EGP
+     - Earned Bonus:   2000.00 EGP
+     - Tax Deductions: 1800.00 EGP
+    =================================================
+     💵Net Payable Cash: 10200.00 EGP
+    =================================================
 # Author
 Eng Nourhan Mustafa
