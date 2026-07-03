@@ -2,7 +2,7 @@
 Beginner Python HR &amp; Payroll Management System
 Project Description
 
-# This application allows HR employees to:
+## Project Description
 
 - Enter employee information
 - Calculate employee bonuses based on performance
@@ -12,7 +12,7 @@ Project Description
 
 The project was built using Python functions and structural programming concepts.
 
-# Features
+## Features
 
 - Performance-based bonus calculation
 - Tax deduction system
@@ -20,7 +20,7 @@ The project was built using Python functions and structural programming concepts
 - Input validation
 - Clean and modular code structure
 
-# Technologies Used
+## Technologies Used
 
 - Python
 
@@ -29,9 +29,10 @@ The project was built using Python functions and structural programming concepts
 1. Download the project files
 2. Open terminal or command prompt
 3. Run the following command:
-- python "Corporate Talent & Payroll Management System.py"
-
-# Example Output 
+```bash
+python "Corporate Talent & Payroll Management System.py"
+```
+## Example Output 
     ===============================================
     📄 Payroll Statement for: Ahmed
     ===============================================
