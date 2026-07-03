@@ -24,7 +24,7 @@ The project was built using Python functions and structural programming concepts
 
 - Python
 
-# How to Run
+## How to Run
 
 1. Download the project files
 2. Open terminal or command prompt
