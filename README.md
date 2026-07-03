@@ -1,4 +1,4 @@
-# corporate-payroll-system
+# Corporate-payroll-system
 Beginner Python HR &amp; Payroll Management System
 Project Description
 
@@ -43,4 +43,4 @@ The project was built using Python functions and structural programming concepts
      💵Net Payable Cash: 10200.00 EGP
     =================================================
 # Author
-Eng Nourhan Mustafa
+ENG: Nourhan Mustafa
